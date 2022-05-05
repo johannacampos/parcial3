@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+
+#titulo {
+    background-color: #EFC2B3;
+}
+
+h1 {
+    font-family: 'Karla';
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+body {
+    font-family: 'Karla', sans-serif;
+}
+
+.navbar-brand {
+    font-family: 'Karla', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.navbar {
+    padding-bottom: 0 0 4.5rem;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: 'Karla','Montserrat-Light', sans-serif;
+    font-weight: 100;
+}
+
+.whatsapp {
+    width: 20%;
+    border-radius: 100%;
+    border-width: 0px;
+    margin: 20px;
+    background-color: transparent;
+}
+.contact-button {
+    width: 20%;
+    height: 3%;
+    border-radius: 100%;
+    border-width: 0px;
+    margin: 20px;
+    background-color: transparent;
+}
+
+.des-image {
+    width: 60%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+
+h3 {
+    font-family: 'Karla';
+    font-size: 1.5rem;
+    font-weight: bold;
+
+}
+
+p {
+    color: #8f8f8f;
+}
+
+
+#especializaciones {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #FF8189;
+    color: #fff;
+}
+
+h2 {
+    font-family: 'Karla';
+    font-size: 3.0rem;
+    font-weight: 900;
+
+}
+
+.img-buttom {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.img-car {
+    width: 50%;
+    border-radius: 0%;
+    margin: 20px;
+}
+
+.logo {
+    width: 80%;
+    margin: 20px;
+}
+
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+
+#redes {
+    background-color: #EFC2B3;
+    padding: 7% 15%;
+    text-align: left;
+}
+
